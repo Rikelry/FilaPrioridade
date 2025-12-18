@@ -1,0 +1,23 @@
+{
+  "name": "filaprioridade",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel source/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikelry/FilaPrioridade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikelry/FilaPrioridade/issues"
+  },
+  "homepage": "https://github.com/Rikelry/FilaPrioridade#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3",
+    "typescript": "^5.9.3"
+  }
+}
